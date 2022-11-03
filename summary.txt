@@ -1,0 +1,10 @@
+Q1- Sum of tatal sales.
+Q2- Sum of total cost.
+Q3- Losses on product sale.
+Q4- Profit on product sale.
+Q5- Total Profit. 
+Q6- Sum of quantity where losses occur
+Q7- Sum of quantity where profits occur.
+Q8- Market wise Sales.
+Q9- Market wise cost.
+Q10-Market wise profit.
